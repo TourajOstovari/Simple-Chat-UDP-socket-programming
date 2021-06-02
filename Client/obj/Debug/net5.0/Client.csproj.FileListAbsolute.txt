@@ -1,0 +1,16 @@
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\Client.exe
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\Client.dll
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\ref\Client.dll
+C:\Users\Toraj\Desktop\Chat\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.csprojAssemblyReference.cache
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.dll
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\Toraj\Desktop\Chat\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
